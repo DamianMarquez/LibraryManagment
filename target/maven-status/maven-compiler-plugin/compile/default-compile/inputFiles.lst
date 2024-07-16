@@ -1,2 +1,7 @@
 /Users/damianmarquez/Documents/GitHub/JAVA/LibraryManagment/src/main/java/librarymanagment/LibraryManagment.java
 /Users/damianmarquez/Documents/GitHub/JAVA/LibraryManagment/src/main/java/librarymanagment/application/service/LibraryManagmentService.java
+/Users/damianmarquez/Documents/GitHub/JAVA/LibraryManagment/src/main/java/librarymanagment/domain/Autor.java
+/Users/damianmarquez/Documents/GitHub/JAVA/LibraryManagment/src/main/java/librarymanagment/domain/Biblioteca.java
+/Users/damianmarquez/Documents/GitHub/JAVA/LibraryManagment/src/main/java/librarymanagment/domain/Libro.java
+/Users/damianmarquez/Documents/GitHub/JAVA/LibraryManagment/src/main/java/librarymanagment/domain/Usuario.java
+/Users/damianmarquez/Documents/GitHub/JAVA/LibraryManagment/src/main/java/librarymanagment/infraestructure/adapter/in/web/Controller.java

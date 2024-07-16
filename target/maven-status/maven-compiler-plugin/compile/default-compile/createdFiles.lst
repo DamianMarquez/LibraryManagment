@@ -1,2 +1,7 @@
+librarymanagment/infraestructure/adapter/in/web/Controller.class
 librarymanagment/LibraryManagment.class
+librarymanagment/domain/Libro.class
+librarymanagment/domain/Biblioteca.class
+librarymanagment/domain/Autor.class
 application/service/LibraryManagmentService.class
+librarymanagment/domain/Usuario.class
